@@ -1,4 +1,3 @@
-# Bismillahir rohmanir rohim
 
 ### `git` command line orqali ishlash bo'yicha o'rgangan qo'llanmalarimni saqlab borish uchun git commandalar ketma-ketligi
 
